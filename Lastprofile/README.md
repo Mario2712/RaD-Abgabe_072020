@@ -3,7 +3,7 @@
 ## Filestruktur
 
 - [Applikation, CycleGAN_pools.ipynb](CycleGAN_pools.ipynb)
-- Anaconda-Environment(environment.yml)
+- [Anaconda-Environment](environment.yml)
 - Datenquelle [nopool2pool_256.npz](https://www.dropbox.com/preview/R%26D-Projekt_2019_20_Pichler_Siller/10_Prototyp/Lastprofile/nopool2pool_256.npz?role=personal)
 
 Die Datenquelle ist leider nur in der Dropbox verfügbar, da das File zu groß ist. Es muss im gleichen Verzeichnis wie das Programm abgelegt werden. Beim Programm handelt es sich um ein Jupyter Notebook.
