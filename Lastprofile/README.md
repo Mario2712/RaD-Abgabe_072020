@@ -14,6 +14,8 @@ Das Anaconda-Environment kann mit dem Befehl
 conda env create -f environment.yml
 ```
 
+angelegt werden.
+
 **ACHTUNG:**
 Eventuell muss der Name des Environments noch angepasst werden. Standardmäßiger Name im .yml-File ist ***base***.
 
