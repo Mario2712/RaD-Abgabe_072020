@@ -2,8 +2,8 @@
 
 ## Struktur
 
-- [Deepfake-Applikation](Deepfake/README.md)
-- [Lastprofil-Applikation](Lastprofile/README.md)
+- [Deepfake-Applikation](Deepfake)
+- [Lastprofil-Applikation](Lastprofile)
 
 Im Zuge des Industrie- und Forschungsprojekts an der **Fachhochschule Salzburg** des Masterstudiengangs **Informationstechnik & Systemmanagement** wurden in den ersten beiden Semestern die oben angegebenen Applikationen ermittelt.
 
