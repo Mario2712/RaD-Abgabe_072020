@@ -3,7 +3,7 @@
 ## Filestruktur
 
 - [Applikation, DFL_Colab_TagderoffenenT.ipynb](DFL_Colab_TagderoffenenT.ipynb) - auszuführen mit Google Colaboratory
-- Datenquelle [workspace.zip](https://www.dropbox.com/preview/R%26D-Projekt_2019_20_Pichler_Siller/10_Prototyp/Lastprofile/nopool2pool_256.npz?role=personal)
+- Datenquelle [workspace.zip](https://www.dropbox.com/preview/R%26D-Projekt_2019_20_Pichler_Siller/10_Prototyp/Deepfake/workspace.zip?role=personal) - **ACHTUNG:** etwa 5 GB
 
 Die Datenquelle ist leider nur in der Dropbox verfügbar, da das File zu groß ist. Es muss in der Google Drive des für die Ausführung verwendeten Users verspeichert sein.
 
